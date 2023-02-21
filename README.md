@@ -1,4 +1,4 @@
-# Boilerplate Card by [@iantrich](https://www.github.com/iantrich) modby [@qnlbnsl](https://www.github.com/qnlbnsl)
+# Boilerplate Card by [@iantrich](https://www.github.com/iantrich) modded by [@qnlbnsl](https://www.github.com/qnlbnsl)
 
 ## Options
 
